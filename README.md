@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Vidhi1024
-- 👀 I’m interested in web develpoment
+- 👀 I’m interested in machine learning and web develpoment
 - 🌱 I’m currently learning frontend designing
 - 📫 How to reach me is through my email-@vidhigupta1024@gmail.com
 
